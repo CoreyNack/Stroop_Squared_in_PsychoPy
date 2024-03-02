@@ -32,4 +32,4 @@ Nature and measurement of attention control.
 Journal of Experimental Psychology: General, 152(8), 2369–2402. 
 https://doi.org/10.1037/xge0001408
 
-, Who should also be cited. 
+, who should also be cited. 
